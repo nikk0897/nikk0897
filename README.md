@@ -37,8 +37,7 @@ const nikita = {
 
 🔨 Building scalable React applications with modern best practices  
 🎨 Exploring advanced animation techniques and micro-interactions  
-📚 Deep diving into TypeScript and advanced state management  
-🌱 Contributing to open-source projects
+📚 Deep diving into Javacsript and advanced state management  
 
 </div>
 
@@ -87,31 +86,12 @@ const nikita = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nikk0897&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-<div align="center">
-
 ## 💼 Portfolio & Projects
 
 <a href="https://www.crio.do/learn/portfolio/nikita0897" target="_blank">
   <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Project Name 1** | Brief description of what this project does | React, TypeScript, Tailwind | [🔗 Demo](link) |
-| **Project Name 2** | Brief description of what this project does | React, Redux, CSS | [🔗 Demo](link) |
-| **Project Name 3** | Brief description of what this project does | JavaScript, HTML, CSS | [🔗 Demo](link) |
-
-> 📌 *Pin your best projects to your profile to showcase them here!*
 
 </div>
 
@@ -124,17 +104,12 @@ const nikita = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikitamalviya97)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/nikita0897)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita0897@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.crio.do/learn/portfolio/nikita0897)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📈 Profile Views
 
@@ -144,6 +119,5 @@ const nikita = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" />
 
-**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 </div>
