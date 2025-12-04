@@ -1,71 +1,149 @@
-<h1 align="center">Hi 👋, I'm Nikita Malviya</h1>
-<h3 align="center">Frontend Developer from India 🇮🇳</h3>
-
 <div align="center">
-  <img src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" 
-       alt="nikita0897" height="300" width="400"/>
+
+# 🚀 NIKITA MALVIYA
+
+### Frontend Developer | React Specialist | UI/UX Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Crafting+Digital+Experiences;Building+Scalable+React+Applications;Transforming+Ideas+into+Reality" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 🚀 About Me  
-- 🌐 All of my projects are available at [**My Portfolio**](https://www.crio.do/learn/portfolio/nikita0897)  
-- 📫 How to reach me: **nikita0897@gmail.com**  
+<div align="center">
+  
+## 💫 About Me
+
+</div>
+
+```typescript
+const nikita = {
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React", "Redux", "TailwindCSS"],
+        tools: ["Figma", "Postman", "ElasticSearch"],
+        currentFocus: "Building performant & accessible web applications"
+    },
+    architecture: ["SPA", "Component-Based Design", "Responsive Design"],
+    challenge: "Turning complex problems into elegant solutions"
+};
+```
+
+<div align="center">
+
+### 🎯 What I'm Currently Working On
+
+🔨 Building scalable React applications with modern best practices  
+🎨 Exploring advanced animation techniques and micro-interactions  
+📚 Deep diving into TypeScript and advanced state management  
+🌱 Contributing to open-source projects
+
+</div>
 
 ---
 
-### 🌐 Connect with me  
-<p align="left">
-  <a href="https://linkedin.com/in/nikitamalviya97" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/nikita0897" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" 
-         alt="CodeSandbox" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.elastic.co" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikk0897&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikk0897&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikk0897&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikk0897&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikk0897&show_icons=true&locale=en&layout=compact" alt="nikk0897" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikk0897" alt="nikk0897" />
-</p>
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nikk0897&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Portfolio & Projects
+
+<a href="https://www.crio.do/learn/portfolio/nikita0897" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Project Name 1** | Brief description of what this project does | React, TypeScript, Tailwind | [🔗 Demo](link) |
+| **Project Name 2** | Brief description of what this project does | React, Redux, CSS | [🔗 Demo](link) |
+| **Project Name 3** | Brief description of what this project does | JavaScript, HTML, CSS | [🔗 Demo](link) |
+
+> 📌 *Pin your best projects to your profile to showcase them here!*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikitamalviya97)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/nikita0897)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita0897@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.crio.do/learn/portfolio/nikita0897)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikk0897&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" />
+
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
