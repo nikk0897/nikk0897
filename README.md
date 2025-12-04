@@ -20,10 +20,10 @@
 const nikita = {
     location: "India 🇮🇳",
     role: "Frontend Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS"],
     technologies: {
-        frontend: ["React", "Redux", "TailwindCSS"],
-        tools: ["Figma", "Postman", "ElasticSearch"],
+        frontend: ["React", "Redux", "TailwindCSS", "Ant Design"],
+        tools: ["Figma", "Postman", "ElasticSearch", "Linear", "PostHog"],
         currentFocus: "Building performant & accessible web applications"
     },
     architecture: ["SPA", "Component-Based Design", "Responsive Design"],
@@ -55,6 +55,7 @@ const nikita = {
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
@@ -64,7 +65,10 @@ const nikita = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
 </div>
 
